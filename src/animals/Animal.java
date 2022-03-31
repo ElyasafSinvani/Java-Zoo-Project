@@ -10,6 +10,7 @@ import java.util.Objects;
 
 public class Animal implements IEdible
 {
+    //claas 
     private String name;
     private double weight;
     private IDiet diet;
